@@ -2,7 +2,7 @@
 ###
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&weight=400&size=34&duration=4000&pause=300&color=57A4FC&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Tiago+;Seja+bem+vindo(a)!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&weight=400&size=34&duration=4000&pause=300&color=57A4FC&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Tiago+;Seja+bem+vindo(a)!;" />
 </h1>
 
 ###
