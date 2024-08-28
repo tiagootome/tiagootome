@@ -68,6 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tiagoolima/tiagoolima/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/tiagoolima/tiagoolima/blob/output/github-contribution-grid-snake.svg)
 
 ###
