@@ -1,7 +1,8 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=36&duration=4000&pause=500&color=57A4FC&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Tiago+;Seja+bem+vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&duration=4000&pause=500&color=57A4FC&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Tiago+;Seja+bem+vindo(a)!)](https://git.io/typing-svg)
+
 
 ###
 
