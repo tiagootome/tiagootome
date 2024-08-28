@@ -1,12 +1,14 @@
-<img align="right" height="180" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
 
 ###
 
-<h1 align="left">👋 Olá, eu sou o Tiago! Bem-vindo(a)!</h1>
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&weight=400&size=34&duration=4000&pause=300&color=57A4FC&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Tiago+;Seja+bem+vindo(a)!" />
+</h1>
 
 ###
 
 <h2 align="left">Sobre mim:</h2>
+<img align="right" height="180" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
 
 ###
 
