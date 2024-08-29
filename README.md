@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">- 💻 Estudante de Programação;<br>- 🌱 Apaixonado por Tecnologia;<br>- 🎓 Cursando Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">- 💻 Estudante de Programação;<br>- 🌱 Apaixonado por Tecnologia;<br>- 🎓 Cursando Análise e Desenvolvimento de Sistemas; <br>- 🎓 Graduado em Matemática.</p>
 
 ###
 
@@ -69,6 +69,10 @@
 
 ###
 
-![snake gif](https://github.com/tiagoolima/tiagoolima/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiagoolima/tiagoolima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiagoolima/tiagoolima/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tiagoolima/tiagoolima/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
