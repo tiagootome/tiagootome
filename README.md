@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">- 💻 Estudante de Programação;<br>- 🌱 Apaixonado por Tecnologia;<br>- 🎓 Cursando Análise e Desenvolvimento de Sistemas; <br>- 🎓 Graduado em Matemática.</p>
+<p align="left">- 💻 Estudante de Programação;<br>- 🌱 Apaixonado por Tecnologia;<br>- 🎓 Graduado em Análise e Desenvolvimento de Sistemas; <br>- 🎓 Graduado em Matemática.</p>
 
 ###
 
